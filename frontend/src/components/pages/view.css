@@ -1,0 +1,30 @@
+.view-heading{
+  margin: 40px 0 10px 40px;
+}
+
+.view-container {
+  position: relative;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+  margin: 10px 80px;
+  border: 2px solid #ebecf0;
+  border-radius: 10px;
+}
+
+.view-image {
+  width: 30%;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+}
+.view-description {
+  width: 70%;
+  height: auto;
+  padding: 50px;
+}

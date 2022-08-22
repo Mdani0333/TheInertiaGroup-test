@@ -1,0 +1,46 @@
+[
+    {
+        "id": "1",
+        "name":"white Bread",
+        "category":"bread",
+        "image":"https://www.dropbox.com/s/suahsr26c2b1u1a/whiteBread.png?raw=1",
+        "price":25,
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    }
+    ,
+    {
+        "id": "2",
+        "name":"Apple",
+        "category":"fruit",
+        "image":"https://www.dropbox.com/s/xxgh6m115m5yu51/apple.png?raw=1",
+        "price":25,
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    }
+    ,
+    {
+        "id": "3",
+        "name":"Cheese",
+        "category":"dairy",
+        "image":"https://www.dropbox.com/s/m098cz84375gj4h/cheese.png?raw=1",
+        "price":25,
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    }
+    ,
+    {
+        "id": "4",
+        "name":"Potato",
+        "category":"vegetable",
+        "image":"https://www.dropbox.com/s/y5h2vqei1lo3kj5/potato.png?raw=1",
+        "price":25,
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    }
+    ,
+    {
+        "id": "5",
+        "name":"Cookies",
+        "category":"snack",
+        "image":"https://www.dropbox.com/s/yb2n2mnqmf1phtu/cookies.png?raw=1",
+        "price":25,
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    }
+]

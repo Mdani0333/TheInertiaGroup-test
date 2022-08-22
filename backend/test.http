@@ -1,0 +1,10 @@
+POST http://localhost:3000/purchases/post
+content-type: application/json
+
+{
+    "name":"white Bread",
+    "category":"bread",
+    "image":"https://www.dropbox.com/s/suahsr26c2b1u1a/whiteBread.png?raw=1",
+    "price":25,
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+}
